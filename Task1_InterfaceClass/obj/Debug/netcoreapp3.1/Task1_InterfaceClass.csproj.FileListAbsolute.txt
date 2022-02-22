@@ -1,0 +1,14 @@
+C:\Users\DoctorCOMP\Desktop\Task1_InterfaceClass\Task1_InterfaceClass\bin\Debug\netcoreapp3.1\Task1_InterfaceClass.exe
+C:\Users\DoctorCOMP\Desktop\Task1_InterfaceClass\Task1_InterfaceClass\bin\Debug\netcoreapp3.1\Task1_InterfaceClass.deps.json
+C:\Users\DoctorCOMP\Desktop\Task1_InterfaceClass\Task1_InterfaceClass\bin\Debug\netcoreapp3.1\Task1_InterfaceClass.runtimeconfig.json
+C:\Users\DoctorCOMP\Desktop\Task1_InterfaceClass\Task1_InterfaceClass\bin\Debug\netcoreapp3.1\Task1_InterfaceClass.runtimeconfig.dev.json
+C:\Users\DoctorCOMP\Desktop\Task1_InterfaceClass\Task1_InterfaceClass\bin\Debug\netcoreapp3.1\Task1_InterfaceClass.dll
+C:\Users\DoctorCOMP\Desktop\Task1_InterfaceClass\Task1_InterfaceClass\bin\Debug\netcoreapp3.1\Task1_InterfaceClass.pdb
+C:\Users\DoctorCOMP\Desktop\Task1_InterfaceClass\Task1_InterfaceClass\obj\Debug\netcoreapp3.1\Task1_InterfaceClass.csproj.AssemblyReference.cache
+C:\Users\DoctorCOMP\Desktop\Task1_InterfaceClass\Task1_InterfaceClass\obj\Debug\netcoreapp3.1\Task1_InterfaceClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DoctorCOMP\Desktop\Task1_InterfaceClass\Task1_InterfaceClass\obj\Debug\netcoreapp3.1\Task1_InterfaceClass.AssemblyInfoInputs.cache
+C:\Users\DoctorCOMP\Desktop\Task1_InterfaceClass\Task1_InterfaceClass\obj\Debug\netcoreapp3.1\Task1_InterfaceClass.AssemblyInfo.cs
+C:\Users\DoctorCOMP\Desktop\Task1_InterfaceClass\Task1_InterfaceClass\obj\Debug\netcoreapp3.1\Task1_InterfaceClass.csproj.CoreCompileInputs.cache
+C:\Users\DoctorCOMP\Desktop\Task1_InterfaceClass\Task1_InterfaceClass\obj\Debug\netcoreapp3.1\Task1_InterfaceClass.dll
+C:\Users\DoctorCOMP\Desktop\Task1_InterfaceClass\Task1_InterfaceClass\obj\Debug\netcoreapp3.1\Task1_InterfaceClass.pdb
+C:\Users\DoctorCOMP\Desktop\Task1_InterfaceClass\Task1_InterfaceClass\obj\Debug\netcoreapp3.1\Task1_InterfaceClass.genruntimeconfig.cache
